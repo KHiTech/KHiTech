@@ -1,7 +1,7 @@
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="(https://imgur.com/a/wkUv0wK)">
- <source media="(prefers-color-scheme: light)" srcset="(https://imgur.com/a/D7wr9Bc)">
+ <source media="(prefers-color-scheme: dark)" srcset="(https://imgur.com/a/newwwwwenig-wkUv0wK)">
+ <source media="(prefers-color-scheme: light)" srcset="(https://imgur.com/a/networenig-D7wr9Bc)">
  <img alt="Network Engineering & Security" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
